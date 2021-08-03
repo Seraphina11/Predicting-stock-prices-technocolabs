@@ -30,8 +30,10 @@ We used Naïve Bayes model because it works particularly well with text classifi
 
 </span></font>
 
-![image.png](attachment:image.png)
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/45910682/128031147-fdddbba5-6401-453f-a655-3cff0fca763e.png)
+![image](https://user-images.githubusercontent.com/45910682/128031176-44c3caee-81d9-4a7e-9c79-d8c010967355.png)
+
+
 
 ### <p> Step 2) Splitting the Dataset</p>
 
