@@ -1,4 +1,5 @@
-![WhatsApp Image 2021-08-05 at 20 10 23 (1)](https://user-images.githubusercontent.com/45910682/128372702-6be6d179-5f31-402e-af4a-96b3ca3d0e45.jpeg)
+![WhatsApp Image 2021-08-05 at 20 09 57](https://user-images.githubusercontent.com/45910682/128372362-7fff9873-afb0-441e-8d08-82fbc3424dd4.jpeg)
+
 # Prediction of Stock Price for Large-cap companies
 ## Introduction:
 This project aims on predicting the future price changes of a stock of a large cap company. This uses the previous prices and financial news related to that particular company.
@@ -160,7 +161,9 @@ Our platform is elegant, flexible, and easy to use, offering developers the simp
 
     
 
-![WhatsApp Image 2021-08-05 at 20 09 57](https://user-images.githubusercontent.com/45910682/128372362-7fff9873-afb0-441e-8d08-82fbc3424dd4.jpeg)
+
+![WhatsApp Image 2021-08-05 at 20 10 23 (1)](https://user-images.githubusercontent.com/45910682/128372702-6be6d179-5f31-402e-af4a-96b3ca3d0e45.jpeg)
+
 
 ## This is  how our final WebApp looks after deployment and frontend devlopment.
 
