@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-08-05 at 20 10 23 (1)](https://user-images.githubusercontent.com/45910682/128372702-6be6d179-5f31-402e-af4a-96b3ca3d0e45.jpeg)
 # Prediction of Stock Price for Large-cap companies
 ## Introduction:
 This project aims on predicting the future price changes of a stock of a large cap company. This uses the previous prices and financial news related to that particular company.
