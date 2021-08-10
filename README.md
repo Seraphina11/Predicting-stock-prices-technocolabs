@@ -1,4 +1,6 @@
 
+![WhatsApp Image 2021-08-05 at 20 09 57](https://user-images.githubusercontent.com/45910682/128886577-f1a25f5f-6a9a-4279-8c3c-9665c4866579.jpeg)
+![WhatsApp Image 2021-08-05 at 20 10 23](https://user-images.githubusercontent.com/45910682/128886637-09e47d80-16f0-49ef-98fa-7b5c48754385.jpeg)
 
 # Prediction of Stock Price for Large-cap companies
 ## Introduction:
@@ -151,6 +153,9 @@ Here, we use CountVectorizer (another term of TfVectorizer).it will basically co
  Technology used Flask:-
  - Flask is a web framework. This means flask provides you with tools, libraries and technologies that allow you to build a web application. This web application can be some web pages, a blog, a wiki or go as big as a web-based calendar application or a commercial website
  - HTML/CSS
+
+![WhatsApp Image 2021-08-05 at 20 10 23 (1)](https://user-images.githubusercontent.com/45910682/128886680-69231af8-a96d-44e2-a6c3-2cab8169dce8.jpeg)
+
  
 ### Hosting 
 Technology used Heroku:-
